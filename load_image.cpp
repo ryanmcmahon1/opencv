@@ -19,7 +19,6 @@ int main()
 
 	imwrite("write_image.jpg", image);
 
-	// 
 	waitKey(0);
 	return 0;
 }
